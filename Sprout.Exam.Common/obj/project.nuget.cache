@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AQM0VSfwAqzezazG+PN0dFXHYBwxbHjR3M2cIh5i6ImGYersshk5+sGGl7gC4fbjM/IOlstFjLofbn0cdWKoAg==",
+  "success": true,
+  "projectFilePath": "D:\\Proj\\sprout\\sprout-exam-webapp\\Sprout.Exam.Common\\Sprout.Exam.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vashfox\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\vashfox\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\vashfox\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
