@@ -22,6 +22,7 @@ export default class App extends Component {
       <Layout>
         <Route exact path='/' component={EmployeesIndex} />
         <Route path='/counter' component={Counter} />
+        <Route path='/counter' component={Home} />
         <AuthorizeRoute path='/fetch-data' component={FetchData} />
         <AuthorizeRoute path='/employees/index' component={EmployeesIndex} />
         <AuthorizeRoute path='/employees/create' component={EmployeeCreate} />
